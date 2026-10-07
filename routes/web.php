@@ -13,7 +13,7 @@ Route::prefix("perpustakaan")->group(function () {
     Route::get("/anggota", function () {
         return view("anggota");
     });
-    Route::get("/peminjam", function () {
-        return view("peminjam");
+    Route::get("/peminjaman", function () {
+        return view("peminjaman");
     });
 });

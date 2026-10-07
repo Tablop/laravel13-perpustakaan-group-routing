@@ -67,8 +67,8 @@
                 </tr>
                 <tr>
                     <td>
-                        <a href="/perpustakaan/peminjam"
-                            >/perpustakaan/peminjam</a
+                        <a href="/perpustakaan/peminjaman"
+                            >/perpustakaan/peminjaman</a
                         >
                     </td>
                     <td>Untuk melihat daftar buku yang dipinjam</td>

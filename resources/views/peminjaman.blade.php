@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Peminjam</title>
+        <title>Peminjaman</title>
         <style>
             * {
                 padding: 0px;
@@ -46,8 +46,8 @@
     </head>
     <body>
         <main>
-            <h1>Peminjam</h1>
-            <h3>Daftar Peminjam</h3>
+            <h1>Peminjaman</h1>
+            <h3>Daftar Peminjaman</h3>
             <table>
                 <tr>
                     <th>Nama</th>
